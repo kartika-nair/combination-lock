@@ -164,10 +164,10 @@ void check()
 
 void bluesLow()
 {
-digitalWrite(BLUES[0],LOW);
-digitalWrite(BLUES[1],LOW);
-digitalWrite(BLUES[2],LOW);
-digitalWrite(BLUES[3],LOW);
-digitalWrite(BLUES[4],LOW);
-digitalWrite(BLUES[5],LOW);
+  digitalWrite(BLUES[0],LOW);
+  digitalWrite(BLUES[1],LOW);
+  digitalWrite(BLUES[2],LOW);
+  digitalWrite(BLUES[3],LOW);
+  digitalWrite(BLUES[4],LOW);
+  digitalWrite(BLUES[5],LOW);
 }
